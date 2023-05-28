@@ -1,0 +1,4 @@
+name: HypingMoney
+version: '${project.version}'
+main: eq.larry.dev.HypingMoney
+api-version: 1.19
